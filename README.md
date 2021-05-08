@@ -1,2 +1,2 @@
-# sign-up-form
- Criação de uma página de cadastro de usuários com HTML5 e CSS3 com VSCode.
+# Sign-up form
+ Desenvolvimento de uma página de cadastro utilizando HTML5, CSS3 e JS para validação de dados.
